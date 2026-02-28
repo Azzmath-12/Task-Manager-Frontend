@@ -5,7 +5,7 @@ It allows users to manage daily tasks efficiently with a clean and responsive UI
 
 ## 🚀 Live Demo
 Deployed on Vercel:
-👉 https://your-vercel-link.vercel.app
+👉 [https://your-vercel-link.vercel.app](https://taskmanagerfrontend-sigma.vercel.app/)
 
 ---
 
@@ -31,3 +31,30 @@ Deployed on Vercel:
 ---
 
 ## 📂 Project Structure
+
+task-manager-frontend/
+│
+├── public/
+│   └── index.html
+│
+├── src/
+│   ├── components/
+│   │   ├── TaskForm.jsx
+│   │   ├── TaskList.jsx
+│   │   └── Navbar.jsx
+│   │
+│   ├── pages/
+│   │   ├── Home.jsx
+│   │   └── NotFound.jsx
+│   │
+│   ├── services/
+│   │   └── api.js
+│   │
+│   ├── App.js
+│   ├── main.jsx / index.js
+│   └── styles.css
+│
+├── .gitignore
+├── package.json
+├── package-lock.json
+└── README.md
