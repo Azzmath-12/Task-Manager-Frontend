@@ -1,0 +1,81 @@
+{
+  "taskDetails": [
+    {
+      "id": "2c3d",
+      "title": "Chat Application",
+      "description": "Implement using Springboot",
+      "priority": "high",
+      "createdAt": "October 20 2025",
+      "completed": false
+    },
+    {
+      "id": "3e4f",
+      "title": "Task Manager App",
+      "description": "Use Python Flask backend",
+      "priority": "low",
+      "createdAt": "October 21 2025",
+      "completed": false
+    },
+    {
+      "id": "4g5h",
+      "title": "E-commerce Website",
+      "description": "React + Node.js + MongoDB",
+      "priority": "medium",
+      "createdAt": "October 21 2025",
+      "completed": false
+    },
+    {
+      "id": "5h6i",
+      "title": "Portfolio Website",
+      "description": "Design responsive layout using HTML, CSS, and JavaScript",
+      "priority": "medium",
+      "createdAt": "October 22 2025",
+      "completed": false
+    },
+    {
+      "id": "6i7j",
+      "title": "Expense Tracker",
+      "description": "Integrate Firebase authentication and Firestore database",
+      "priority": "high",
+      "createdAt": "October 22 2025",
+      "completed": false
+    },
+    {
+      "id": "7j8k",
+      "title": "Weather Forecast App",
+      "description": "Use OpenWeatherMap API and React hooks",
+      "priority": "low",
+      "createdAt": "October 23 2025",
+      "completed": false
+    },
+    {
+      "id": "8k9l",
+      "title": "Blog Management System",
+      "description": "Develop backend with Node.js and Express",
+      "priority": "medium",
+      "createdAt": "October 23 2025",
+      "completed": false
+    },
+    {
+      "id": "9l0m",
+      "title": "Student Attendance System",
+      "description": "Create REST API using Spring Boot",
+      "priority": "high",
+      "createdAt": "October 24 2025"
+    },
+    {
+      "id": "0m1n",
+      "title": "Movie Ticket Booking",
+      "description": "Implement using React and Firebase database",
+      "priority": "medium",
+      "createdAt": "October 24 2025"
+    },
+    {
+      "id": "1n2o",
+      "title": "Online Quiz App",
+      "description": "Use MongoDB for questions and results storage",
+      "priority": "low",
+      "createdAt": "October 25 2025"
+    }
+  ]
+}
