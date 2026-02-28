@@ -32,6 +32,7 @@ Deployed on Vercel:
 
 ## 📂 Project Structure
 
+```bash
 task-manager-frontend/
 │
 ├── public/
@@ -51,13 +52,14 @@ task-manager-frontend/
 │   │   └── api.js
 │   │
 │   ├── App.js
-│   ├── main.jsx / index.js
+│   ├── main.jsx
 │   └── styles.css
 │
 ├── .gitignore
 ├── package.json
 ├── package-lock.json
 └── README.md
+```
 
 - **components/** → Reusable UI components
 - **pages/** → Application pages
