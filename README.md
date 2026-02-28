@@ -58,3 +58,8 @@ task-manager-frontend/
 ├── package.json
 ├── package-lock.json
 └── README.md
+- **components/** → Reusable UI components
+- **pages/** → Application pages
+- **services/** → API integration logic
+- **App.js** → Main application component
+- **main.jsx / index.js** → Entry point of React app
