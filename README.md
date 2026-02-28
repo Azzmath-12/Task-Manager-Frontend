@@ -58,6 +58,7 @@ task-manager-frontend/
 ├── package.json
 ├── package-lock.json
 └── README.md
+
 - **components/** → Reusable UI components
 - **pages/** → Application pages
 - **services/** → API integration logic
